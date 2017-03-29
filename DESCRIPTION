@@ -1,0 +1,18 @@
+Package: PaleoHydroEU
+Type: Package
+Title: An R Package For Cooperation between KVHEM and UFZ
+Version: 0.1.0
+Author: Martin Hanel
+Maintainer: Martin Hanel <hanelf@fzp.czu.cz>
+Description: We will see
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+  data.table, 
+  ggplot2,
+  raster, 
+  rasterVis,
+  maptools,
+  sp
+  
